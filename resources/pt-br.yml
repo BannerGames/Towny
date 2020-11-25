@@ -1028,7 +1028,7 @@ msg_enemy_areas: 'Áreas Inimigas'
 msg_neutral_towns: 'Cidades Neutras'
 
 # Added in 0.64
-msg_err_no_nation_with_that_name: 'Não foi possível encontar uma nação com o nome %s'
+msg_err_no_nation_with_that_name: 'Não foi possível encontrar uma nação com o nome %s'
 msg_err_cannot_unclaim_homeblock: 'Você não pode abandonar o seu terreno de casa, use ''/town set homeblock'' para mover o seu terreno de casa.'
 
 # Added in 0.65
@@ -1168,27 +1168,27 @@ msg_your_town_couldnt_pay_upkeep: '&bSua cidade não podia pagar a manutenção 
 msg_your_nation_couldnt_pay_upkeep: '&bSua nação não podia pagar a manutenção diária de %s e foi dissolvida.'
 
 #Added in 0.87
-msg_town_reached_debtcap_and_is_disbanded: '&b%s could not pay their upkeep, reached their debtcap, and has disbanded.'
-msg_town_reached_debtcap_and_is_disbanded_multiple: '&bThe following towns could not pay their upkeep, reached their debtcap, and have disbanded: '
-msg_unable_to_deposit_x: 'Unable to deposit %s into that town''s bank.'
-msg_unable_to_withdraw_x: 'Unable to withdraw %s from that town''s bank.'
-status_debtcap: '&2Debt Cap: &a%s'
-status_world_explrevert_entity: '&2Entity Explosion Revert: '
-status_world_explrevert_block: '&2Block Explosion Revert: '
+msg_town_reached_debtcap_and_is_disbanded: '&b%s não conseguiu pagar os impostos, chegou ao limite de dívida, e foi dissolvida.'
+msg_town_reached_debtcap_and_is_disbanded_multiple: '&bAs seguintes cidades não conseguiram pagar os impostos, chegaram ao limite de dívida, e foram dissolvidas: '
+msg_unable_to_deposit_x: 'Não foi possível depositar %s no banco da cidade.'
+msg_unable_to_withdraw_x: 'Não foi possível retirar %s do banco da cidade.'
+status_debtcap: '&2Limite de Dívida: &a%s'
+status_world_explrevert_entity: '&2Reverter Explosão de Creeper: '
+status_world_explrevert_block: '&2Reverter Explosão de Blocos: '
 
 #Added in 0.88
-msg_nation_already_peaceful: '&cNation is already peaceful.'
-msg_nation_already_not_peaceful: '&cNation is already not peaceful.'
+msg_nation_already_peaceful: '&cA nação já é pacífica.'
+msg_nation_already_not_peaceful: '&cA nação não é pacífica.'
 
 #Added in 0.89
-status_world_friendlyfire: '&2FriendlyFire: '
-status_world_wildernessmobs: '&2Wilderness Mobs: '
-msg_outlaw_kick_cooldown: '&cYou''re considered an outlaw in %s. You have %s remaining for you to leave the town, otherwise, you will get teleported back to your spawnpoint.'
-msg_outlaw_kicked: '&4You are not welcome in %s. You were teleported away.'
-msg_outlaw_town_notify: '&cAn outlaw, %s, has entered your town''s territory.'
-msg_your_town_payed_upkeep_with_debt: '&cYour town paid the daily upkeep of %s with debt.'
-msg_payed_nation_tax_with_debt: '&cYour town paid the nation tax of %s with debt.'
+status_world_friendlyfire: '&2Fogo Amigável: '
+status_world_wildernessmobs: '&2Criaturas Selvagens: '
+msg_outlaw_kick_cooldown: '&cVocê é considerado um foragido em %s. Você tem %s restantes para você sair da cidade, se não, você vai ser teletransportado para o seu ponto de renascimento.'
+msg_outlaw_kicked: '&4Você não é bem-vindo em %s. Você foi teleportado para fora.'
+msg_outlaw_town_notify: '&cUm foragido, %s, entrou no território da sua cidade.'
+msg_your_town_payed_upkeep_with_debt: '&cA sua cidade pagou o imposto diário de %s com dívida.'
+msg_payed_nation_tax_with_debt: '&cA sua cidade pagou o imposto da nação de %s com dívida.'
 
 #Added in 0.90
-status_plot_clear_deletion: '&2PlotClearBlockDelete: '
-msg_err_plot_clear_disabled_in_this_world: 'The /plot clear command is disabled in this world.'
+status_plot_clear_deletion: '&2Apagar a limpeza de blocos de terrenos: '
+msg_err_plot_clear_disabled_in_this_world: 'O comando /plot clear está desabilitado neste mundo.'
